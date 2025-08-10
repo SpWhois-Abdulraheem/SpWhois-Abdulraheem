@@ -1,21 +1,26 @@
 # 👋 Hi, I'm Abdulraheem Aiyelabegan 
 💻 **SQL Database Administrator** | 📊 **Data Enthusiast**  
 
-Welcome to my GitHub profile!  
-I work with **SQL Server, MySQL, and cloud databases**, and I’m passionate about **data performance, optimization, and automation**.  
-I share scripts, tips, and projects that make database management easier and data ecosystem at large.
+# SQL DBA Scripts
 
-## 🔧 Skills & Tools
-- 🗄️ SQL Server | MySQL | PostgreSQL
-- ⚡ Performance Tuning | Query Optimization
-- ☁️ Azure | AWS | RDS | Huawei
-- 📈 Data Analysis | ETL | Power BI
-- 🛠️ Python for Data
+A collection of scripts I use in my daily work as a SQL Database Administrator.
 
-## 🌱 Currently Learning
-- ✨ Advanced Indexing & Partitioning
-- 📦 Cloud-native database solutions
-- AI & ML Engineering
+## 📌 Contents
+- **Maintenance**
+  - Index rebuild & reorganize
+  - Update statistics
+- **Monitoring**
+  - Check disk space
+  - Find long-running queries
+- **Backups**
+  - Database backup & restore
+
+## 🛠️ Supported Platforms
+✅ SQL Server  
+✅ MySQL
+
+Feel free to fork this repo and contribute!
+
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/abdulraheem-aiyelabegan-277381240/)  
